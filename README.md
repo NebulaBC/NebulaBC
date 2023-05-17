@@ -1,6 +1,6 @@
 ![NebulaBC's github stats](https://github-readme-stats.vercel.app/api?username=nebulabc&show_icons=true&theme=radical)
 
-New stuff is at [git.neb.cx](https://git.neb.cx/neb/) (Pre-existing stuff will be mirrored here for the forseeable future though)
+New stuff is at [git.neb.cx](https://git.neb.cx/NebulaBC/) (Pre-existing stuff will be mirrored here for the forseeable future though)
 
 <!-- 
 <details>
